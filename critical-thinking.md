@@ -1,6 +1,6 @@
 ###CRITICAL THINKING PROJECT
 
-###PROJECT TASK
+**PROJECT TASK**
 
 **Task 1: Evaluate Different SCM Tools**
 
