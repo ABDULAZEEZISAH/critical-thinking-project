@@ -1,5 +1,7 @@
 ###CRITICAL THINKING PROJECT
-####PROJECT TASK
+
+###PROJECT TASK
+
 **Task 1: Evaluate Different SCM Tools**
 
 **Research: Start by comparing centralized and distributed version control systems. What are the key differences between tools like Subversion (SVN) and Git?**
@@ -109,7 +111,7 @@ Git works seamlessly with:
 6. Risk of Workflow Inconsistency
 * Git allows many workflows (GitFlow, trunk-based, etc.)
 
-###Report highlighting the key reasons why your team should move to Git or an alternative DVCS. Discuss how distributed teams benefit from DVCS tools.
+**Report highlighting the key reasons why your team should move to Git or an alternative DVCS. Discuss how distributed teams benefit from DVCS tools.**
 
 **Report: Adoption of Git as a Distributed Version Control System (DVCS)**
 
@@ -181,7 +183,7 @@ Teams can adopt workflows such as:
 * Feature branching
 
 
-###Task 2: Implement Git Workflows for a Team Project
+**Task 2: Implement Git Workflows for a Team Project**
 
 Git Workflow Guide for Distributed Development Team
 
@@ -248,7 +250,7 @@ All pull requests must pass:
 * ✅ Improved code quality with reviews and testing
 * ✅ Scalable workflow for growing teams
 
-###Task 3: Automate Code Quality and Deployment
+**Task 3: Automate Code Quality and Deployment**g
 
 **CI/CD Integration with GitHub Actions**
 **Overview**
